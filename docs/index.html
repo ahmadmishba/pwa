@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="Aplikasi Informasi Sepak Bola">
+        <meta name="viewport"  content="width=device-width, initial-scale=1.0">
+        <meta name="theme-color" content="#039be5"/>
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="default">
+        <meta name="apple-mobile-web-app-title" content="Aplikasi Informasi Sepak Bola">
+        <meta name="msapplication-TileImage" content="./assets/img/icons/icon-128x128.png">
+        <meta name="msapplication-TileColor" content="#039be5">        
+        <title>AISB</title>
+        <link rel="stylesheet" href="./assets/css/materialize/materialize.min.css">
+        <link rel="stylesheet" href="./assets/css/style.css">
+        <link rel="manifest" href="./manifest.json">
+        <link rel="icon" type="image/png" href="./assets/img/icons/icon-128x128.png">
+        <link rel="apple-touch-icon" href="./assets/img/icons/icon-128x128.png">
+    </head>
+    <body>
+        <header>
+            <nav class="light-blue darken-3" role="navigation">
+                <div class="nav-wrapper container">
+                    <a href="#" class="brand-logo nav-pwa" id="logo-container">AISB</a>
+                    <a href="#" class="sidenav-trigger" data-target="nav-mobile">☰</a>
+                    <ul class="topnav right hide-on-med-and-down"></ul>
+                    <ul class="sidenav" id="nav-mobile"></ul>
+                </div>
+            </nav>
+        </header>
+        <main>
+            <div class="container">
+                <div class="row">
+                    <div class="col s12 m12 center-align" id="loading-process"></div>
+                    <div class="col s12 m12" id="hd-title"></div>
+                    <div class="col s12 m12" id="content"></div>
+                </div>
+            </div>
+        </main>
+        <footer class="page-footer blue-grey lighten-5">
+            <div class="container">
+                <div class="black-text center footer-pwa">
+                    &copy Aplikasi Informasi Sepak Bola | AISB 2020
+                </div>
+            </div>
+        </footer>
+        <script src="./assets/js/materialize/materialize.min.js"></script>
+        <script src="./assets/js/api.js"></script>
+        <script src="./assets/js/idb.js"></script>
+        <script src="./assets/js/core.js"></script>
+        <script src="./assets/js/register.js"></script>
+        <script src="./assets/js/sidnav.js"></script>
+    </body>
+</html>
