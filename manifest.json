@@ -5,7 +5,7 @@
     "theme_color": "#039be5",
     "background_color": "#039be5",
     "display": "standalone",
-    "start_url": "/index.html",
+    "start_url": "/aisb.ammnotessite.com/index.html",
     "icons": [
       {
         "src": "assets/img/icons/icon-72x72.png",
