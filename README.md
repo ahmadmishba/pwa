@@ -5,6 +5,6 @@ In addition, starting from elementary class learning Web Programming until MPWA 
 Thank you Dicoding and Indosat Ooredoo,
 As the organizers of the online coding learning scholarship program, who have supported and facilitated it.
 
-# https://aisb.ammnotessite.com/
+# https://my-aisb-pwa.web.app/
 
 Aplikasi Informasi Sepak Bola | AISB | Progressive Web Apps 
