@@ -1,10 +1,7 @@
-This is the 3rd or final submission application in the class Building Progressive Web Apps, which I made with the help of learning modules and facilitators provided by Dicoding.com and Indosat.
+Final application submission in the Build Progressive Web Applications class
 
-In addition, starting from elementary class learning Web Programming until MPWA is fully supported and funded by a Scholarship from IDCAMP 2020.
+Fully supported and funded by IDCAMP Scholarship 2020
 
-Thank you Dicoding and Indosat Ooredoo,
-As the organizers of the online coding learning scholarship program, who have supported and facilitated it.
-
-# https://my-aisb-pwa.web.app/
+https://my-aisb-pwa.web.app/
 
 Aplikasi Informasi Sepak Bola | AISB | Progressive Web Apps 
